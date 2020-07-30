@@ -1,0 +1,10 @@
+This repo is so F#@Xing complicated
+
+local accounts:
+3 differenet local accounts
+
+remote accoutns:
+2 different remote accounts
+
+> always fetching from the ramoun16 account and pushing to the mrramoun account
+
